@@ -1,24 +1,8 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# cra-ts-ie11-starter
+# formik-ts-starter
 
-Starter for [Create React App](https://github.com/facebook/create-react-app) on TypeScript which support Internet Explorer 11.
-
-This project created with :
-
-```
-npx create-react-app cra-ts-ie11-starter --template typescript
-```
-
-Add ie11:
-
-```
-    npm install react-app-polyfill
-```
-
-Add "import 'react-app-polyfill/ie11';" to index.tsx
-
-Also delete unnecessary files.
+Starter for Forms with [Formik](https://github.com/jaredpalmer/formik) on TypeScript which support Internet Explorer 11.
 
 ## Feature tags
 
@@ -27,17 +11,7 @@ Also delete unnecessary files.
 - starter
 - template
 - typescript
-
----
-
-## Parents
-
-[-**typescript**](https://github.com/softspiders/cra-ie11-starter)
-
-## Children
-
-- [+**styled-components, styled-components.theme-providers**](https://github.com/softspiders/styledcomponents-ts-starter)
-- [+**context-api**](https://github.com/softspiders/contextapi-ts-starter)
+- formik
 
 ---
 
