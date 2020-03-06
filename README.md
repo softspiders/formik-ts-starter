@@ -52,6 +52,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ---
 
+## Inspired by
+
+Formik [basic-typescript example](https://github.com/jaredpalmer/formik/tree/master/examples/basic-typescript).
+
+---
+
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
