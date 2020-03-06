@@ -2,7 +2,7 @@
 
 # formik-ts-starter
 
-Starter for Forms with [Formik](https://github.com/jaredpalmer/formik) on TypeScript which support Internet Explorer 11.
+Starter for Forms with [***Formik***](https://github.com/jaredpalmer/formik) on *TypeScript* which support *Internet Explorer 11*.
 
 ## Feature tags
 
