@@ -17,11 +17,11 @@ Starter for Forms with [***Formik***](https://github.com/jaredpalmer/formik) on 
 
 ## Parents
 
-[***-formik***](https://github.com/softspiders/cra-ts-ie11-starter)
+[**-formik**](https://github.com/softspiders/cra-ts-ie11-starter)
 
 ## Children
 
-[***+styled-components***](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+[**+styled-components**](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
 
 ---
 
