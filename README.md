@@ -15,6 +15,28 @@ Starter for Forms with [Formik](https://github.com/jaredpalmer/formik) on TypeSc
 
 ---
 
+## Parents
+
+[***-formik***](https://github.com/softspiders/cra-ts-ie11-starter)
+
+## Children
+
+[***+styled-components***](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+
+---
+
+## Author
+
+[Dmitrii](https://github.com/dmitrii92)
+
+---
+
+## Inspired by
+
+Formik [basic-typescript example](https://github.com/jaredpalmer/formik/tree/master/examples/basic-typescript).
+
+---
+
 ## Requirements
 
 - [Node.js](https://nodejs.org/en/download/package-manager/)
@@ -49,18 +71,6 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
----
-
-## Author
-
-[Dmitrii](https://github.com/dmitrii92)
-
----
-
-## Inspired by
-
-Formik [basic-typescript example](https://github.com/jaredpalmer/formik/tree/master/examples/basic-typescript).
 
 ---
 
