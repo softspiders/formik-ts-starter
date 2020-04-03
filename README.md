@@ -18,11 +18,11 @@ Starter for Forms with [***Formik***](https://github.com/jaredpalmer/formik) on 
 ## Parents
 
 - [**- formik**](https://github.com/softspiders/cra-ts-ie11-starter)
-- [**+ basic-auth, client, express, integration-test, login, jest, rest**](https://github.com/softspiders/cra-login-formik-ts-starter)
 
 ## Children
 
-[**+styled-components**](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+- [**+ styled-components**](https://github.com/softspiders/cra-formik-styledcomponents-ts-starter)
+- [**+ basic-auth, client, express, integration-test, login, jest, rest**](https://github.com/softspiders/cra-login-formik-ts-starter)
 
 ---
 
